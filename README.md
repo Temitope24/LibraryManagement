@@ -31,16 +31,16 @@ Application en ligne de commande développée en Java pour gérer les livres, le
 - BookNotFoundException.java : exception pour les livres introuvables
 - BookNotAvailableException.java : exception pour les livres indisponibles
 
-## Installation et exécution
+# Installation et exécution
 
-# Prérequis
+## Prérequis
 Avoir le kit de développement Java (JDK) installé sur son ordinateur.
 
-# Lancer l'application
+## Lancer l'application
 - Cloner le dépôt GitHub
 - Accéder au dossier du projet
 - Compiler les fichiers Java
 - Lancer l'application
 
-# Objectif du projet
+## Objectif du projet
 Ce projet a été réalisé pour mettre en pratique les concepts fondamentaux de Java et de la programmation orientée objet à travers le développement d'une application fonctionnelle.
