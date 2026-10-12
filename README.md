@@ -37,10 +37,10 @@ Application en ligne de commande développée en Java pour gérer les livres, le
 Avoir le kit de développement Java (JDK) installé sur son ordinateur.
 
 ## Lancer l'application
-- Cloner le dépôt GitHub
-- Accéder au dossier du projet
-- Compiler les fichiers Java
-- Lancer l'application
+- Cloner le dépôt GitHub : git clone https://github.com/Temitope24/LibraryManagement
+- Accéder au dossier du projet : cd LibraryManagement
+- Compiler les fichiers Java : javac *.java
+- Lancer l'application : java Main
 
 ## Objectif du projet
 Ce projet a été réalisé pour mettre en pratique les concepts fondamentaux de Java et de la programmation orientée objet à travers le développement d'une application fonctionnelle.
